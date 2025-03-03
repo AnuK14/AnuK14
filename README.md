@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anush Kumar
 
 ## Bio Description
-I'm a **PhD researcher** at Nanyang Technological University, Singapore, specializing in **intelligent and risk-averse air corridors for multirotors in urban environments**. My research integrates **data-driven and physics-based models** to enhance **multirotor UAV safety, crash area prediction, and intelligent decision-making**. I work extensively with **machine learning, neural networks, symbolic regression, and physics-informed deep learning** to facilitate safe and efficient multirotor operations.
+I'm a **PhD researcher** at **Nanyang Technological University, Singapore**, specializing in **intelligent and risk-averse air corridors for multirotors in urban environments**. My research integrates **data-driven and physics-based models** to enhance **multirotor UAV safety, crash area prediction, and intelligent decision-making**. I work extensively with **machine learning, neural networks, symbolic regression, and physics-informed deep learning** to facilitate safe and efficient multirotor operations.
 
 ## Research Interests
 🔹 **Multirotor UAV Safety & Risk Analysis**  
@@ -15,12 +15,12 @@ I'm a **PhD researcher** at Nanyang Technological University, Singapore, special
 ## Tech Knowledge
 🛠 **Programming**: Python, MATLAB, LaTeX  
 🧠 **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn  
-📡 **Simulation**: MATLAB, Simulink
+📡 **Simulation**: MATLAB, Simulink  
 📊 **Data Science**: Pandas, NumPy, SciPy  
 
 ## Connect with Me  
-📄 [Google Scholar](https://scholar.google.com/citations?user=U18dhqwAAAAJ&hl=en) 
-📝 [LinkedIn](https://www.linkedin.com/in/kumar-anush) 
-📧 [Email](m220010@e.ntu.edu.sg)  
+📄 [Google Scholar](https://scholar.google.com/citations?user=U18dhqwAAAAJ&hl=en)  
+📝 [LinkedIn](https://www.linkedin.com/in/kumar-anush)  
+📧 [Email](m220010@e.ntu.edu.sg)   
 
 ---
