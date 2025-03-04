@@ -9,7 +9,7 @@ I'm a **PhD researcher** at **Nanyang Technological University, Singapore**, spe
 🔹 **Intelligent Path-Planning and Decision-Making Strategies**
 
 ## Ongoing Research
-🚀 **Multirotor Crash Area Data Collection**: Data acquisition of multirotor crash trajectories under actuator failures and external disturbances.  
+🚀 **Multirotor Crash Area Data Collection**: Crash trajectories under actuator failures and external disturbances.  
 📊 **Physics-based Learning of Quadrotor Crash Area**: Prediction of quadrotor crash area under wind and turbulence.
 
 ## Tech Knowledge
