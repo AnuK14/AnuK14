@@ -21,6 +21,6 @@ I'm a **PhD researcher** at **Nanyang Technological University, Singapore**, spe
 ## Connect with Me  
 📄 [Google Scholar](https://scholar.google.com/citations?user=U18dhqwAAAAJ&hl=en)  
 📝 [LinkedIn](https://www.linkedin.com/in/kumar-anush)  
-📧 [Email](m220010@e.ntu.edu.sg)   
+📧 Email: M220010@e.ntu.edu.sg   
 
 ---
